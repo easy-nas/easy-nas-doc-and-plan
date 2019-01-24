@@ -29,3 +29,6 @@
 * 在线播放视频（电视和服务器在一个局域网内会超级快，相当于本地磁盘了）
 * 系统足够的精简，对于普通用户只保留核心功能。
 * ...
+
+------
+具体见[wiki](https://github.com/easy-nas/easy-nas-doc-and-plan/wiki)
